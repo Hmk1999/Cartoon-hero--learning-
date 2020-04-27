@@ -1,0 +1,19 @@
+<style type="text/css">
+		
+		h3{font-style: 10px; 
+			color: blue;}
+
+		.big{font-size: 20px; color: orange;}
+
+		.Uppercase{text-transform: uppercase;}
+
+		.bold{font-style: bold;}
+
+		.bold.Uppercase{color: blue;}
+
+		body {background: red}
+
+
+
+
+	</style>
