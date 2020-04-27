@@ -9,7 +9,7 @@
 
 		.bold{font-style: bold;}
 
-		.bold.Uppercase{color: blue;}
+		.bold.Uppercase{color: blue; font-size: 30px}
 
 		body {background: red}
 
